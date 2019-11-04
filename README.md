@@ -10,3 +10,5 @@ Blockchain for IoT, implemented in Golang.
 
 [Github](https://github.com/iotexproject/iotex-core) [Homepage](https://www.iotex.io/)
 
+## Github IoT topic
+https://github.com/topics/internet-of-things
